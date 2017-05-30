@@ -1,4 +1,10 @@
-Мисля, че на мен се пада честа да го създам!!!
+﻿Мисля, че на мен се пада честа да го създам!!!
 Казвам се Светльо.
 Живея в Долна баня.
 Харесвам да играя шах и да ходя в планината, но рядко имам време.
+
+
+My name is Yanko.
+I am from Burgas.
+I like video games, movies, programming and some other things.
+I picked SoftUni because I like programming and all technology.
